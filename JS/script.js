@@ -1,6 +1,6 @@
 // Variaveis
 
-const apiKey = "9639efc9770bb4cb1d25209fea1642bc"
+const apiKey = "************************"
 const apiCountryURL = "https://countryflagsapi.com/png/"
 
 const cityInput = document.querySelector("#city-input")
